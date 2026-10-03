@@ -112,9 +112,9 @@ DAPA-TCC/
     ├── arquitetura/
     │   └── arquitetura-sistema.png
     │
-    └── imagens/
-        ├── prototipo-modulo-porta.jpg
-        └── prototipo-modulo-controle.jpg
+    └── prototipo/
+        ├── modulo-porta.png
+        └── modulo-controle.png
 ```
 
 ## Configuração
