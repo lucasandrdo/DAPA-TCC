@@ -57,7 +57,7 @@ Quando esse período é atingido, o Módulo da Porta envia um comando ao Módulo
 
 Código:
 
-[`codigo/modulo-porta/modulo-porta.ino`](codigo/modulo-porta/modulo-porta.ino)
+[`codigo/modulo-porta.ino`](codigo/modulo-porta.ino)
 
 ### Módulo de Controle
 
@@ -73,7 +73,7 @@ Caso a porta esteja fechada após esse período, o Módulo de Controle recebe o 
 
 Código:
 
-[`codigo/modulo-controle/modulo-controle.ino`](codigo/modulo-controle/modulo-controle.ino)
+[`codigo/modulo-controle.ino`](codigo/modulo-controle.ino)
 
 ## Tecnologias e componentes
 
