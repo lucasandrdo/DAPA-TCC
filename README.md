@@ -102,11 +102,8 @@ DAPA-TCC/
 ├── LICENSE
 │
 ├── codigo/
-│   ├── modulo-porta/
-│   │   └── modulo-porta.ino
-│   │
-│   └── modulo-controle/
-│       └── modulo-controle.ino
+│   ├── modulo-porta.ino
+│   └── modulo-controle.ino
 │
 └── documentacao/
     ├── arquitetura/
